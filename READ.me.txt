@@ -1,1 +1,1 @@
-The features that my future bots will/won't have. Basically templates
+This is a discord bot I made in my earlier days of programming
