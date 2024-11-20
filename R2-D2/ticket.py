@@ -61,4 +61,4 @@ async def ticket(ctx):
   await ctx.send(embed = discord.Embed(title = "Ticket", description = "サーバーへようこそ！ チケットを開いて私に連絡してください。"), view = view)
 
 
-client.run("OTU5MDA2NTc5ODA4NjkwMjQ3.YkVmeg.wUX1tAi7WD3XUkj1EPT1vPy2hsE")
+client.run("TOKEN")
